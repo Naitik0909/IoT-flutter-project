@@ -1,0 +1,1 @@
+web: gunicorn grid_project.wsgi

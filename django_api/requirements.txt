@@ -1,0 +1,6 @@
+django
+opencv-python-headless
+djangorestframework
+markdown
+django-filter
+gunicorn
